@@ -1,0 +1,32 @@
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 600px;
+}
+.shortInfoContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+
+  color: green;
+}
+.short-img-container {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 5px;
+}
+.user-img {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 5px;
+  transition: transform 0.3s ease;
+}
+.user-img:hover {
+  transform: scale(1.1);
+}
+.full-info-container {
+  color: brown;
+}

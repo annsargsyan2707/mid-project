@@ -4,12 +4,14 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import Header from "./Header/Header.jsx";
 import Slider from "./Slider/Slider.jsx";
+import UserPart from "./UserPart/UserPart.jsx";
 
 const App = () => {
   return (
     <div className="app">
       <Header />
       <Slider />
+      <UserPart />
     </div>
   );
 };

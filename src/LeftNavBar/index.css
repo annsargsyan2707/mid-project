@@ -1,0 +1,15 @@
+.users-container {
+  display: flex;
+}
+.users {
+  list-style-type: none;
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  gap: 10px;
+}
+.user {
+  background-color: burlywood;
+  padding: 10px 20px;
+  border-radius: 5px;
+}

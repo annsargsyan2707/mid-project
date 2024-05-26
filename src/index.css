@@ -19,6 +19,6 @@
   flex-direction: column;
   background-color: #eee;
   color: blue;
-  height: 100vh;
+  height: auto;
   width: 100%;
 }
