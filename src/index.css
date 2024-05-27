@@ -17,7 +17,9 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: #eee;
+  /* background-color: #d0dde7; */
+
+  background-image: linear-gradient(to bottom, #ebeeee, #aac4dd);
   color: blue;
   height: auto;
   width: 100%;

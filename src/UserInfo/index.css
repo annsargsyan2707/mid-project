@@ -9,7 +9,7 @@
   flex-direction: row;
   gap: 80px;
 
-  color: green;
+  color: #2c5933;
 }
 .short-img-container {
   width: 200px;
@@ -28,5 +28,5 @@
   transform: scale(1.1);
 }
 .full-info-container {
-  color: brown;
+  color: #744427;
 }
